@@ -1,0 +1,83 @@
+
+body {
+  background-image: url("../images/bkgd.png");
+  background-repeat: repeat-x;
+  background-color: black;
+  color: white;
+  font-size: 14pt;
+
+}
+
+.vert-spacer{
+  margin-top: 278px;
+}
+
+.form-control {
+  width: 260px;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  margin-top: 38px;
+  font-size: 85pt;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+#sign-up {
+  padding-top: 8px;
+  padding-left: 22px;
+  font-size: 14pt;
+  float: left;
+}
+
+#footer {
+  padding-bottom: 20px;
+}
+
+#leaderboard {
+  font-size: 14pt;
+  /* margin-bottom: 20px; */
+}
+
+#admin {
+  font-size: 16pt;
+  padding-bottom: 25px;
+}
+
+#admin .header {
+  padding-bottom: 13px;
+  font-weight: bolder;
+}
+
+.delete {
+  margin-bottom: 12px;
+}
+
+#leaderboard h2 {
+  margin-bottom: 13px;
+}
+
+#leaderboard .header {
+  padding-bottom: 10px;
+  font-weight: bolder;
+}
+
+#start-game {
+  padding-top: 20px;
+}
+
+button.submit {
+  float: left;
+}
+
+.card-header button.delete,
+button.edit {
+  float: right;
+  margin: 5px;
+}
+
+
